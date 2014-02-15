@@ -1,0 +1,14 @@
+eclipse
+.DS_Store
+*.iml
+*.ipr
+*.iws
+out
+build
+assets
+forge*
+.gradle
+gradlew
+gradlew.bat
+gradle
+

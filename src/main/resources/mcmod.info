@@ -1,0 +1,10 @@
+[
+{
+  "modid": "Pets_Forge",
+  "name": "Pets Forge",
+  "description": "Forge-mod for the Pets plugin-",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "authors": ["DMarby"]
+}
+]
